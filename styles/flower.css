@@ -8,14 +8,19 @@ font-family: 'Open Sans', sans-serif;
     
 }
 
+
 /* header related style */
+
+
 .header{
     background: rgba(229, 84, 115, 0.10);
     width: 1920px;
     height: 850px; 
 }
 
+
 /* banner section */
+
 
 .banner{
     display: flex;
@@ -23,8 +28,7 @@ font-family: 'Open Sans', sans-serif;
     justify-content: space-between; 
 }
 .banner-content{
-    padding: 50px 40px 80px 200px;
-   
+    padding: 50px 40px 80px 200px; 
 }
 .banner-title{
     color: #272727;
@@ -47,14 +51,15 @@ font-size: 20px;
 font-weight: 700;
 }
 .banner-img{
-
 padding: 50px 200px 25px 0; 
-
 }
+
 
 /* main related styles */
 
+
 /* featured-flower section */
+
 
 .featured-flower{
     margin-top: 178px;
@@ -73,7 +78,9 @@ font-size: 18px;
 font-weight: 400;
 }
 
-/* featured-flower section */
+
+/* featured-flower content section */
+
 
 .featured-flower-content{
     display: flex;
@@ -82,8 +89,7 @@ font-weight: 400;
  } 
 .featured-info{
     align-items: center;
-    text-align: center;
-    
+    text-align: center; 
 } 
 .info-1{
     border-radius: 300px 300px 0px 0px;
@@ -92,7 +98,6 @@ padding: 110px 78px 0px 76px;
 width: 310px;
 height: 428px;
 margin-right: 25px;
-
 }
 .info-2{
     border-radius: 300px 300px 0px 0px;
@@ -128,6 +133,9 @@ margin: 0 200px;
     justify-content: space-between;
     align-items: center;
 } */
+ 
+
+/* hot deal section */
 
 
 .hot-deal{
@@ -139,12 +147,10 @@ align-items: center;
 padding: 80px 350px;
 gap: 180px;
 margin-bottom: 128px;
-
 }
 .hot-deal-content{
     text-align: center;
     align-items: center;
-
 }
 .hot-deal-title{
     color: #272727;
@@ -153,8 +159,6 @@ font-weight: 800;
 }
 .off-color{
     color: #E55473;
-
-
 }
 .hot-deal-description{
     color: rgba(39, 39, 39, 0.60);
@@ -164,6 +168,7 @@ font-weight: 800;
 }
 
 
+/* instagram section */
 
 
 .instagram{
@@ -185,6 +190,11 @@ font-size: 18px;
 font-weight: 400;
 margin-bottom: 48px;
 }
+
+
+/* img exhbition section */
+
+
 .instagram-img{
      margin: 0 200px 128px;  
 }
@@ -197,3 +207,38 @@ margin-bottom: 48px;
 #img-3{
     margin-right: 20px;
 }
+
+/*subcription section  */
+
+.subscribe{
+    background-image: url('../image/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    margin:0 200px 128px;
+    padding: 121px 287px;  
+    text-align: center;
+}
+.subscribe-title{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 16px;
+}
+.subscribe-description{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 48px;
+}
+.input-field{
+    border-radius: 8px;
+background: #FFF;
+border: none;
+color: rgba(39, 39, 39, 0.60);
+font-size: 16px;
+font-weight: 400;
+width: 50%;
+padding: 23px 200px 20px 20px;
+margin-right: 16px;
+}
+

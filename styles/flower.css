@@ -68,14 +68,14 @@ padding: 50px 200px 25px 0;
 .section-title{
     color: #272727;
 font-size: 40px;
-font-weight: 800;
+font-weight: 700;
 margin-bottom: 24px;
 }
 .section-description{
 
     color: rgba(39, 39, 39, 0.60);
 font-size: 18px;
-font-weight: 400;
+font-weight: 300;
 }
 
 
@@ -155,7 +155,7 @@ margin-bottom: 128px;
 .hot-deal-title{
     color: #272727;
 font-size: 40px;
-font-weight: 800;
+font-weight: 700;
 }
 .off-color{
     color: #E55473;
@@ -163,7 +163,7 @@ font-weight: 800;
 .hot-deal-description{
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 300;
     padding: 24px 0 32px;
 }
 
@@ -181,13 +181,13 @@ font-weight: 800;
 .instagram-title{
     color: #272727;
 font-size: 40px;
-font-weight: 800;
+font-weight: 700;
 margin-bottom: 24px;
 }
 .instagram-description{
     color: rgba(39, 39, 39, 0.60);
 font-size: 18px;
-font-weight: 400;
+font-weight: 300;
 margin-bottom: 48px;
 }
 
@@ -221,13 +221,13 @@ margin-bottom: 48px;
 .subscribe-title{
     color: #272727;
 font-size: 40px;
-font-weight: 800;
+font-weight: 700;
 margin-bottom: 16px;
 }
 .subscribe-description{
     color: rgba(39, 39, 39, 0.60);
 font-size: 18px;
-font-weight: 400;
+font-weight: 300;
 margin-bottom: 48px;
 }
 .input-field{
@@ -236,9 +236,41 @@ background: #FFF;
 border: none;
 color: rgba(39, 39, 39, 0.60);
 font-size: 16px;
-font-weight: 400;
+font-weight: 200;
 width: 50%;
 padding: 23px 200px 20px 20px;
 margin-right: 16px;
+}
+
+
+/* footer related styles */
+
+.shop{
+    background: #111010;
+    text-align: center;
+    padding: 128px 610px;
+}
+.shop-title{
+    color: #E55473;
+font-size: 48px;
+font-weight: 700;
+padding-bottom: 24px;
+}
+.shop-decoration{
+    color: #FFF;
+font-size: 48px;
+font-weight: 800;
+}
+.shop-description{
+    color: rgba(255, 255, 255, 0.90);
+font-size: 18px;
+font-weight: 300;
+padding-bottom: 32px;
+}
+.shop-info{
+    color: rgba(255, 255, 255, 0.40);
+font-family: Lato;
+font-size: 16px;
+font-weight: 200;
 }
 

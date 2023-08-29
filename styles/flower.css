@@ -123,16 +123,29 @@ text-decoration-line: underline;
 padding-top: 32px;
 }
 
-/* .extra{
+
+/* extra-section */
+
+
+.extra-content{
     border-radius: 8px;
 background: rgba(39, 39, 39, 0.05);
-margin: 0 200px;
+text-align: center;
+margin:0 210px 128px;
+padding: 100px 170px;
+} 
+.extra-title{
+    color: #272727;
+font-size: 40px;
+font-weight: 700;
+margin-bottom: 32px;
 }
-.extra-content{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-} */
+.extra-description{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 25px;
+}
  
 
 /* hot deal section */
